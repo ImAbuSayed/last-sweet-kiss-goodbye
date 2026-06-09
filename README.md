@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/last-sweet-kiss-goodbye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Last Sweet Kiss Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-sweet-kiss-goodbye/) |
+| **Get License** | [Obtain a Music License for Last Sweet Kiss Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-sweet-kiss-goodbye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the shadows falling cross your face
+> This midnight hour is our secret place
+> Just pull me closer, let the world just fade
+> And let me taste the promises we made
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
