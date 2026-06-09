@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/last-sweet-kiss-goodbye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Last Sweet Kiss Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-sweet-kiss-goodbye/) |
+| **Get License** | [Get License For Last Sweet Kiss Goodbye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-sweet-kiss-goodbye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2853)
 
 ---
 
